@@ -2,6 +2,7 @@
   "name": "fcc-learn-npm-package-json",
   "author": "Muhammad Bilal",
   "description": "Steping into backend development",
+  "license": "MIT",
   "dependencies": {
     "express": "^4.18.2"
   },
